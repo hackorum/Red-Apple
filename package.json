@@ -1,26 +1,26 @@
 {
-    "name": "red-apple",
-    "displayName": "Red Apple",
-    "description": "Red Apple Theme For VSCode",
-    "version": "0.0.1",
-    "publisher": "hackorum",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/hackorum/Red-Apple"
-    },
-    "engines": {
-        "vscode": "^1.52.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Red Apple",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Red Apple-color-theme.json"
-            }
-        ]
-    }
+  "name": "red-apple",
+  "displayName": "Red Apple",
+  "description": "Red Apple Theme For VSCode",
+  "version": "0.0.1",
+  "publisher": "Neil Sabde",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackorum/Red-Apple"
+  },
+  "engines": {
+    "vscode": "^1.52.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Red Apple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Red Apple-color-theme.json"
+      }
+    ]
+  }
 }
